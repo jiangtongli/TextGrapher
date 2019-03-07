@@ -396,4 +396,4 @@ content8 = '''
 
 '''
 handler = CrimeMining()
-handler.main(content8)
+handler.main(content1)
